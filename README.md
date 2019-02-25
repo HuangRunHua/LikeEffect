@@ -1,7 +1,6 @@
 # LikeEffect
 
-## First
-I worte this demo for learning, this demo is a clap animation can be used in many app, let's see what would happen when you run this simple project.
+I worte this demo for learning, this demo is a clap animation can be used in many app.
 
 ## Requirements
 - Xcode9 and later
@@ -9,4 +8,5 @@ I worte this demo for learning, this demo is a clap animation can be used in man
 - Swift4.0 and later
 
 ## Demo
-
+let's see what would happen when you run this simple project.
+![]()
